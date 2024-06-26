@@ -1,7 +1,8 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **Desarrollo de habilidades digitales para
+la construcción de contenido digital**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/INFO_22810017_CONSTRUCCION_CONTENIDO_DIGITAL_V2/](https://ecored-sena.github.io/INFO_22810017_CONSTRUCCION_CONTENIDO_DIGITAL_V2/)
 
 #
